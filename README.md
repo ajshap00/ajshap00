@@ -1,10 +1,10 @@
 <h1 align="left"> Hi there! 👋
   <h2> 📖 About Me</h2>
     <ul>
-      <li> I'm Alex Shapiro, a Computer Science student at George Mason University working toward becoming a Software Engineer. </b> </li>
-      <li> My favorite language to code in is Python, and I also enjoy working with Java and web technologies.</li>
-      <li> I enjoy building projects that solve real-world problems, learning new technologies, and improving my software development skills. </li>
-      <li> In my free time I also enjoy a variety of hobbies such as, <b> listening/creating music, playing video games, and wrestling</b></li>
+      <li> I'm Alex Shapiro, a <b>Computer Science</b> student at George Mason University working toward becoming a <b>Software Engineer</b>.</li>
+      <li> My favorite language to code in is <b>Python</b>, and I also enjoy working with <b>Java</b> and web technologies.</li>
+      <li> I enjoy building projects that solve <b>real-world problems, learning new technologies, and improving my software development skills </b></li>
+      <li> In my free time I also enjoy a variety of hobbies such as, listening/creating music, playing video games, and wrestling</li>
     </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajshap00&label=Profile%20views&color=0e75b6&style=flat" alt="ajshap00" /> </p>
